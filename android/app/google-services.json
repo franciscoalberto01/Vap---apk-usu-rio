@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "386118301041",
+    "firebase_url": "https://vaptest-66ecc-default-rtdb.firebaseio.com",
+    "project_id": "vaptest-66ecc",
+    "storage_bucket": "vaptest-66ecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386118301041:android:7827847a3f825c999a32d0",
+        "android_client_info": {
+          "package_name": "com.vapdriver.vapmotorista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXX0iNkVoifr7vnuESyfzqyAbL6lT3hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386118301041:android:255b6cba316bb2a29a32d0",
+        "android_client_info": {
+          "package_name": "com.vapuser.vapusuario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgXX0iNkVoifr7vnuESyfzqyAbL6lT3hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
